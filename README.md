@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [La Critica](https://lacritica.com.ar) to maintain and preview the content for your website in Markdown files.
+You can use the [La Critica](https://lacritica.com.ar) [Quiniela de Tucuman](https://lacritica.com.ar/quiniela-de-tucuman)to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
